@@ -1,0 +1,6 @@
+{
+  "name": "Word Search Quest",
+  "description": "A professional, mobile-friendly Word Search game with 500+ levels, smooth animations, and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
